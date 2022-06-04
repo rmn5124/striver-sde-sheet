@@ -114,6 +114,6 @@ public:
     }
     }
 };
-// T.C (O(m*n )
+// T.C O(m*n )
 // S.C O(1)
   
