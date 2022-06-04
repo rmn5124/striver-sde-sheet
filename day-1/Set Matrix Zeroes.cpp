@@ -97,6 +97,7 @@ public:
                 }
             }
         }
+        // we will process 1st row and column later since it will effect all the matrix
         for(int i=1;i<n;i++){
             for(int j=1;j<m;j++){
                 if( matrix[i][0]==0 or  matrix[0][j]==0 ) matrix[i][j]=0; //process except 1st
