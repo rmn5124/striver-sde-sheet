@@ -72,7 +72,7 @@ public:
 // S.C O(m+n)
 // where m and n are column and row of the matrix respectively
 
-APPROACH-2 (OPTIMAL)
+APPROACH-3 (OPTIMAL)
   /*My idea is simple: store states of each row in the first of that row, and store states of each column in the first of that column. Because the state of row0 and the state of column0 would occupy the same cell, I let it be the state of row0, and use another variable "col0" for column0. 
 */
 
