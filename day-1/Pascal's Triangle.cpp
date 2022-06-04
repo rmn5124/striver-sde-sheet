@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/pascals-triangle/
+//https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580?topList=striver-sde-sheet-problems
 class Solution {
 public:
     // we will take each number as a row and traverse each row and push it in the vector.
